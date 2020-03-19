@@ -48,7 +48,7 @@ Foi adicionando uma pasta docker com um docker-compose configurado com as databa
     - o frontend vai estar disponivel na url ```http://localhost:3000```    
 
   - Mobile(Apenas testado no android)
-    - acessar a pasta mobile
+    - acessar a pasta [./mobile](./mobile)
     - caso precise, alterar a url para o seu backend, navegando ate o arquivo [./mobile/src/services/api/index.js](./mobile/src/services/api/index.js) e alterar a baseURL ```export const baseURL = 'http://10.0.2.2:3333';```
     - executar o comando ```npm install```
     - apos terminar executa o comando ```npm run start```
