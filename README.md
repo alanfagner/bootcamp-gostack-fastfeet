@@ -38,7 +38,7 @@ Foi adicionando uma pasta docker com um docker-compose configurado com as databa
     - adicionar o ```MAIL_USER``` e ```MAIL_PASS```
 
   - Docker
-    - acessar a pasta docker/
+    - acessar a pasta [./docker](docker/)
     - executar o comando docker-compose up -d
 
   - Backend
